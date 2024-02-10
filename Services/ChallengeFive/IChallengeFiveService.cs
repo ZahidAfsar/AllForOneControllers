@@ -2,5 +2,5 @@ namespace AllForOneControllers.Services.ChallengeFive;
 
     public interface IChallengeFiveService
     {
-        public string MadLib(string nameOfOcean, string diverName, string underwaterRuinName, string nameOfWorld, string whatIsLandInhabitedBy, string whatIsLandInhabitedByTwo, string howDoYouBeAHero, string whatDoYouHate, string whatDoYouLike, string whatMonsterAttackedYou, string weaponUsed);
+        public string MadLib(string name, string username, string verb, string nameTwo, string noun, string nounTwo, string verbTwo, string nounThree, string nounFour, string creatureName, string weaponName);
     }

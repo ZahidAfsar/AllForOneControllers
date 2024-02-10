@@ -16,7 +16,7 @@ namespace AfsarZMiniChallenge5to7.Controllers;
     }
 
         [HttpGet]
-        [Route("MadLib/{name}/{username}/{verb}/{nameTwo}/{noun}/{nounTwo}/{verbTwo}/ {nounThree}/{nounFour}/{creatureName}/{weaponName}")]
+        [Route("MadLib/{name}/{username}/{verb}/{nameTwo}/{noun}/{nounTwo}/{verbTwo}/{nounThree}/{nounFour}/{creatureName}/{weaponName}")]
 
         public string MadLib(string name, string username, string verb, string nameTwo, string noun, string nounTwo, string verbTwo, string nounThree, string nounFour, string creatureName, string weaponName)
         {
