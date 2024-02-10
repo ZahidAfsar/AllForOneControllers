@@ -16,7 +16,7 @@ namespace AfsarZMiniChallenge5to7.Controllers;
     }
 
         [HttpGet]
-        [Route("MadLib/{nameOfOcean}/{diverName}/{underwaterRuinName}/{nameOfWorld}/ {whatIsLandInhabitedBy}/{whatIsLandInhabitedByTwo}/{howDoYouBeAHero}/ {whatDoYouHate}/{whatDoYouLike}/{whatMonsterAttackedYou}/{weaponUsed}")]
+        [Route("MadLib/{nameOfOcean}/{diverName}/{underwaterRuinName}/{nameOfWorld}/{whatIsLandInhabitedBy}/{whatIsLandInhabitedByTwo}/{howDoYouBeAHero}/ {whatDoYouHate}/{whatDoYouLike}/{whatMonsterAttackedYou}/{weaponUsed}")]
 
         public string MadLib(string nameOfOcean, string diverName, string underwaterRuinName, string nameOfWorld, string whatIsLandInhabitedBy, string whatIsLandInhabitedByTwo, string howDoYouBeAHero, string whatDoYouHate, string whatDoYouLike, string whatMonsterAttackedYou, string weaponUsed)
         {
