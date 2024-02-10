@@ -16,10 +16,10 @@ namespace AfsarZMiniChallenge5to7.Controllers;
     }
 
         [HttpGet]
-        [Route("MadLib/{nameOfOcean}/{diverName}/{underwaterRuinName}/{nameOfWorld}/{whatIsLandInhabitedBy}/{whatIsLandInhabitedByTwo}/{howDoYouBeAHero}/ {whatDoYouHate}/{whatDoYouLike}/{whatMonsterAttackedYou}/{weaponUsed}")]
+        [Route("MadLib/{name}/{username}/{verb}/{nameTwo}/{noun}/{nounTwo}/{verbTwo}/ {nounThree}/{nounFour}/{creatureName}/{weaponName}")]
 
-        public string MadLib(string nameOfOcean, string diverName, string underwaterRuinName, string nameOfWorld, string whatIsLandInhabitedBy, string whatIsLandInhabitedByTwo, string howDoYouBeAHero, string whatDoYouHate, string whatDoYouLike, string whatMonsterAttackedYou, string weaponUsed)
+        public string MadLib(string name, string username, string verb, string nameTwo, string noun, string nounTwo, string verbTwo, string nounThree, string nounFour, string creatureName, string weaponName)
         {
-            return _challengeFiveService.MadLib(nameOfOcean, diverName, underwaterRuinName, nameOfWorld, whatIsLandInhabitedBy, whatIsLandInhabitedByTwo, howDoYouBeAHero, whatDoYouHate, whatDoYouLike, whatMonsterAttackedYou, weaponUsed);
+            return _challengeFiveService.MadLib(name, username, verb, nameTwo, noun, nounTwo, verbTwo, nounThree, nounFour, creatureName, weaponName);
         }
     }
