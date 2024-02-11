@@ -51,3 +51,8 @@
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/obj/Debug/net7.0/AllForOneControllers.pdb
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/obj/Debug/net7.0/AllForOneControllers.genruntimeconfig.cache
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/obj/Debug/net7.0/ref/AllForOneControllers.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/bin/Debug/net7.0/publish/publish/publish/publish/publish/web.config
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/bin/Debug/net7.0/publish/publish/publish/publish/publish/AllForOneControllers.deps.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/bin/Debug/net7.0/publish/publish/publish/publish/publish/AllForOneControllers.runtimeconfig.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/bin/Debug/net7.0/publish/publish/publish/publish/publish/appsettings.Development.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/bin/Debug/net7.0/publish/publish/publish/publish/publish/appsettings.json
