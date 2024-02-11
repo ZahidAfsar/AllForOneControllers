@@ -1,4 +1,5 @@
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/AllForOneControllers
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/publish/web.config
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/web.config
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/web.config
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/web.config
@@ -16,6 +17,10 @@
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/AllForOneControllers.runtimeconfig.json
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/appsettings.Development.json
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/appsettings.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/publish/AllForOneControllers.deps.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/publish/AllForOneControllers.runtimeconfig.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/publish/appsettings.Development.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/publish/publish/publish/publish/appsettings.json
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/AllForOneControllers.dll
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/AllForOneControllers.deps.json
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AllForOneControllers/publish/AllForOneControllers.runtimeconfig.json
